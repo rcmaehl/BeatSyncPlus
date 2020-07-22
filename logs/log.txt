@@ -1,4 +1,0 @@
-[BeatSyncConsole - Info]: Starting BeatSyncConsole v0.8.1.0
-[BeatSyncConsole - Info]: Running the latest release of BeatSyncConsole.
-[BeatSyncConsole - Info]: configs\BeatSyncConsole.json not found, creating a new one.
-[BeatSyncConsole - Info]: configs\BeatSync.json not found, creating a new one.

@@ -16,7 +16,7 @@ Func Main()
 				Sleep(100)
 			Until WinExists("[REGEXPTITLE:.*BeatSyncConsole.exe; Class:ConsoleWindowClass]")
 			ConsoleWrite("2" & @CRLF)
-			WinActivate("\BeatSyncConsole.exe")
+			WinActivate("[REGEXPTITLE:.*BeatSyncConsole.exe; Class:ConsoleWindowClass]")
 			Send("{ENTER}")
 			Do
 				Sleep(100)

@@ -24,8 +24,8 @@ Func Main()
 		ElseIf $bRunning And Not ProcessExists("Beat Saber.exe") Then
 			$bRunning = False
 		EndIf
-		#EndRegion
+		#EndRegion ; Launch BeatSync Console on BeatSaber Startup
 
 	WEnd
 
-EndFunc
+EndFunc   ;==>Main
